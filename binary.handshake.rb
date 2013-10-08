@@ -74,7 +74,7 @@ describe 'SecretHandshake' do
     handshake.commands.should eq(["jump","close your eyes","double blink","wink"])
   end
 
-  it 'should not respond to an invalid code'
+  it 'should not respond to an invalid code' do
     handshake = SecretHandshake.new("binary")
     handshake.commands.should eq([])
   end
