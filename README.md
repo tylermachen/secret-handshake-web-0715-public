@@ -7,7 +7,7 @@
 
 There are 10 types of people in the world: Those who understand binary, and those who don't.
 
-# You and your fellow flatirons are of those in the "know" when it comes to binary decide to come up with a secret "handshake".
+You and your fellow flatirons are of those in the "know" when it comes to binary decide to come up with a secret "handshake".
 
 ```
 # 1 = wink
@@ -31,4 +31,4 @@ handshake = SecretHandshake.new "11001"
 handshake.commands # => ["jump","wink"]
 ```
 
-# The program should consider strings specifying an invalid binary as the value 0.
+The program should consider strings specifying an invalid binary as the value 0.
