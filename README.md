@@ -7,7 +7,9 @@
 
 There are 10 types of people in the world: Those who understand binary, and those who don't.
 
-You and your fellow flatirons are of those in the "know" when it comes to binary decide to come up with a secret "handshake".
+You and your fellow flatirons who are in the know when it comes to binary decide to come up with a secret "handshake".
+
+### Skills: Binary, Bitwise Operations
 
 ```
 # 1 = wink
@@ -18,6 +20,8 @@ You and your fellow flatirons are of those in the "know" when it comes to binary
 
 # 10000 = Reverse the order of the operations in the secret handshake.
 ```
+
+## Instructions
 
 Write a program that will convert a binary number, represented as a string (i.e. "101010"), and convert it to the appropriate sequence of events for a secret handshake.
 
