@@ -7,11 +7,15 @@
 
 There are 10 types of people in the world: Those who understand binary, and those who don't.
 
-You and your fellow flatirons who are in the know when it comes to binary decide to come up with a secret "handshake".
+You and your fellow flatirons who are in the know when it comes to binary decide to come up with a secret handshake.
 
 ### Skills: Binary, Bitwise Operations
 
-```
+## Instructions
+
+Here are the rules you've decided on:
+
+```bash
 # 1 = wink
 # 10 = double blink
 # 100 = close your eyes
@@ -21,13 +25,11 @@ You and your fellow flatirons who are in the know when it comes to binary decide
 # 10000 = Reverse the order of the operations in the secret handshake.
 ```
 
-## Instructions
+Write a program that will convert a binary number (represented as a string, i.e. "101010") to the appropriate sequence of events for a secret handshake.
 
-Write a program that will convert a binary number, represented as a string (i.e. "101010"), and convert it to the appropriate sequence of events for a secret handshake.
+ex.
 
-Code your solution in binary_handshake.rb
-
-```
+```ruby
 handshake = SecretHandshake.new "1001"
 handshake.commands # => ["wink","jump"]
 
@@ -35,4 +37,4 @@ handshake = SecretHandshake.new "11001"
 handshake.commands # => ["jump","wink"]
 ```
 
-The program should consider strings specifying an invalid binary as the value 0.
+Note: The program should consider strings specifying an invalid binary sequence as the value 0.
