@@ -9,6 +9,8 @@ There are 10 types of people in the world: Those who understand binary, and thos
 
 You and your fellow flatirons who are in the know when it comes to binary decide to come up with a secret handshake.
 
+To get even more in the "know", brush up on your binary [here](http://en.wikipedia.org/wiki/Binary_number).
+
 ### Skills: Binary, Bitwise Operations, Object Oriented Programming
 
 ## Instructions
