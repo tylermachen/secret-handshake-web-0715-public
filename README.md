@@ -1,5 +1,5 @@
 ---
-  tags: todo, bitwise operations
+  tags: todo, bitwise operations, oop
   languages: ruby
 ---
 
@@ -9,7 +9,7 @@ There are 10 types of people in the world: Those who understand binary, and thos
 
 You and your fellow flatirons who are in the know when it comes to binary decide to come up with a secret handshake.
 
-### Skills: Binary, Bitwise Operations
+### Skills: Binary, Bitwise Operations, Object Oriented Programming
 
 ## Instructions
 
