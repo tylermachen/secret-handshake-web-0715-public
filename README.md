@@ -1,8 +1,4 @@
----
-  tags: bitwise operations, object orientation, bonus
-  languages: ruby
-  resources: 2
----
+
 
 # Binary Secret Handshake
 
